@@ -131,7 +131,7 @@
     padding-bottom: 30px;
   }
   .navbar-expand-lg {
-    background-color: #4125dd;
+    background-color: #1b518f;
     margin-top: 30px;
   }
   .f-logo img {
@@ -141,7 +141,7 @@
     margin-bottom: 40px;
   }
   .header .navbar-toggler-icon {
-    background-color: #cf057c;
+    background-color: #f15a25;
     outline: none;
     padding-top: 5px;
     color: #fff;
@@ -328,7 +328,7 @@
   .pricing-tables-area .pricing-box {
     padding: 25px;
   }
-  .pricing-tables-area .pricing-box .bordered-btn {
+  .pricing-tables-area .pricing-box .borde#f15a25-btn {
     margin-top: 10px;
   }
   .hero-banner-area.home-2 .upcoming div {
